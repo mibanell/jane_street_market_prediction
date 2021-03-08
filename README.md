@@ -11,14 +11,11 @@ The submitted model is a neural network with the following key aspects:
 
 ## Author
 
-<div>
-    <div style="width: 80px; margin-left: auto; margin-right: auto;">
-      <img  src="img/avatar_500_round.png" width="100%">
-    </div>
-    <div style="width: 250px; margin-left: auto; margin-right: auto; text-align: center;">
-        <a href="https://github.com/miguelangelbg">Miguel Ángel Ballester Granell</a>
-    </div>
-    <div style="width: 250px; margin-left: auto; margin-right: auto; text-align: center;">
-        <a href="https://www.linkedin.com/in/miguelangelballestergranell/">LinkedIn</a>
-    </div>
-</div>
+<p align="center">
+  <img  src="img/avatar_500_round.png" width="100">
+</p>
+<p align="center">
+    <a href="https://github.com/miguelangelbg">Miguel Ángel Ballester Granell</a>
+    <br>
+    <a href="https://www.linkedin.com/in/miguelangelballestergranell/">LinkedIn</a>
+</p>
