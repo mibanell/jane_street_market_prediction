@@ -12,7 +12,9 @@ The submitted model is a neural network with the following key aspects:
 ## Author
 
 <p align="center">
-  <img  src="img/avatar_500_round.png" width="100">
+  <a href="https://github.com/miguelangelbg">
+    <img  src="img/avatar_500_round.png" width="100">
+  </a>
 </p>
 <p align="center">
     <a href="https://github.com/miguelangelbg">Miguel Ángel Ballester Granell</a>
