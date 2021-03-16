@@ -13,7 +13,9 @@ The submitted model is a neural network with the following key aspects:
 
 <br>
 <p align="center">
-  <img  src="img/signature.png" width="100">
+  <a href="https://github.com/mibanell">
+    <img  src="img/signature.png" width="100">
+  </a>
 </p>
 <p align="center">
     <a href="https://github.com/mibanell">Miguel Ángel Ballester Granell</a>
